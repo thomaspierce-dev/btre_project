@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/anaconda/envs/webapp/bin/python",
+    "python.linting.pylintEnabled": true
+}
